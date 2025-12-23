@@ -25,3 +25,8 @@ Here are some ideas to get you started:
   😄 Pronouns: Me as Anne
   ⚡ Fun fact: I wander through space — in code and in the cosmos, exploring worlds few ever touch!!
 ```
+## Tech Stack 💻
+- Languages: `C++`, `Java`, `HTML`, `CSS`, `Javascript`
+- Frameworks: `React`, `Node.js`
+- Tools: `Git`, `Docker`, `VSCode`, `Linux`
+- Databases: `MySQL`
