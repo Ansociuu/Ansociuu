@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   ⚡ Fun fact: I wander through space — in code and in the cosmos, exploring worlds few ever touch!!
 ```
 ## Tech Stack 💻
-- Languages: `C++`, `Java`, `HTML`, `CSS`, `Javascript`
-- Frameworks: `React`, `Node.js`
+- Languages: `C++`, `Java`, `HTML`, `CSS`, `Javascript`, `PHP`
+- Frameworks: `React`, `Node.js`, `Laravel`
 - Tools: `Git`, `Docker`, `VSCode`, `Linux`
 - Databases: `MySQL`
