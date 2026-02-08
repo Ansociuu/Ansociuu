@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   🔭 I’m studying at Phenikaa University
   🌱 Information technology is my major
   👯 My aim is to pursue my education and professional development in Japan
-  🤔 I love discovering new ideas and experimenting with everything around me..
+  🤔 I love discovering new ideas and experimenting with everything around me
   💬 Ask me about anything you want
   📫 How to reach me: nk.anbmtabc@gmail.com
   😄 Pronouns: Me as Anne
